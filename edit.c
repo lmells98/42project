@@ -2,5 +2,5 @@
 
 int	main(void)
 {
-	print_message();
+	print_message("edit to a file");
 }
